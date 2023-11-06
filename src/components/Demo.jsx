@@ -49,6 +49,7 @@ const Demo = () => {
             alt='link_icon'
           />
           <input 
+            id='search_field'
             className='url_input peer'
             type='url'
             placeholder='Enter a URL'
